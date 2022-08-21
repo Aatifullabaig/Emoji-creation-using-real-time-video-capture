@@ -118,4 +118,4 @@ if __name__ == '__main__':
     exitbutton = Button(root, text='Quit',fg="red",command=root.destroy,font=('arial',25,'bold')).pack(side = BOTTOM)
     show_vid()
     show_vid2()
-    root.mainloop()
+    root.mainloop
